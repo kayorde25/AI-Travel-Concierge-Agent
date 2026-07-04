@@ -34,7 +34,6 @@ ai-travel-concierge-agent/
 ├── .gitignore
 └── LICENSE
 
-# AI Travel Concierge Agent
 
 AI Travel Concierge Agent is a generic multi-agent travel assistant built with Google Agent Development Kit. It helps users complete common travel-planning tasks through one conversational interface, including flight search, hotel search, car rental support, and eVisa guidance.
 
